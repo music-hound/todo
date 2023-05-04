@@ -14,7 +14,8 @@ body {
 }
 .container {
     background-color: rgba(202, 207, 218);
-    width: 460px;
+    width: 80%;
+    max-width: 460px;
     transition: 0.3s;
     border: 1px solid rgba(0,0,0,0);
     padding: 0px 30px 30px 30px;
